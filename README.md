@@ -56,12 +56,12 @@ Through the analysis of an Excel pivot table, I found that Electronic Arts domin
 
 I created this pie chart in Excel using worldwide sales data to illustrate the globally preferred gaming genre. Additionally, I made another visualization to highlight sales of all genres in each market according to their sales.
 
+- The leading gaming genres are Action and Shooter.
 <img src="https://github.com/LiliiaVerbenko/GameCO-Marketing-Analysis/blob/main/image/GameCo%203.jpg" width="400">
 
-<img src="https://github.com/LiliiaVerbenko/GameCO-Marketing-Analysis/blob/main/image/GameCO%204.jpg" width="400">
 
-- The leading gaming genres are Action and Shooter.
 - Across all markets, except for Japan, the Action genre holds the top position in popularity, ranking second in Japan.
+<img src="https://github.com/LiliiaVerbenko/GameCO-Marketing-Analysis/blob/main/image/GameCO%204.jpg" width="400">
 
   
 
