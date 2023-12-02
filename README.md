@@ -39,7 +39,8 @@ To perform a descriptive analysis of a video game data set to assist GameCo in p
 
 I created this line graph using an Excel pivot table to analyze whether sales growth varied across different geographic regions over time.
 
-![GameCO 1](path/to/Graphics/Folder/GameCO1.png)
+<img src="https://github.com/LiliiaVerbenko/GameCO-Marketing-Analysis/blob/main/image/GameCO%201.jpg" width="400">
+
 
 - The data indicates a significant shift in sales trends both chronologically and across various geographical locations.
 - Although North American sales were the highest, there has been a gradual decline in sales for all regions since 2008.
