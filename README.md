@@ -33,6 +33,7 @@ GameCo intends to develop new games to remain competitive in the market. They se
 
 To perform a descriptive analysis of a video game data set to assist GameCo in predicting how their new games will perform in the market.
 
+
 ## Key Insights
 
 ### How have sales figures varied between geographic regions over time?
@@ -41,26 +42,29 @@ I created this line graph using an Excel pivot table to analyze whether sales gr
 
 <img src="https://github.com/LiliiaVerbenko/GameCO-Marketing-Analysis/blob/main/image/GameCO%201.jpg" width="400">
 
-
 - The data indicates a significant shift in sales trends both chronologically and across various geographical locations.
 - Although North American sales were the highest, there has been a gradual decline in sales for all regions since 2008.
+  
 
 ### Which publishers are expected to be the main competitors in the market?
 
 Through the analysis of an Excel pivot table, I found that Electronic Arts dominated the market in terms of global sales from 2011 to 2016.
 
-![GameCO 2](path/to/Graphics/Folder/GameCO2.png)
+<img src="https://github.com/LiliiaVerbenko/GameCO-Marketing-Analysis/blob/main/image/GameCO%202.jpg" width="400">
+
 
 ### Are certain types of games more popular than others?
 
 I created this pie chart in Excel using worldwide sales data to illustrate the globally preferred gaming genre. Additionally, I made another visualization to highlight sales of all genres in each market according to their sales.
 
-![GameCO 3](path/to/Graphics/Folder/GameCO3.png)
+<img src="https://github.com/LiliiaVerbenko/GameCO-Marketing-Analysis/blob/main/image/GameCO%203.jpg" width="400">
 
-![GameCO 4](path/to/Graphics/Folder/GameCO4.png)
+<img src="https://github.com/LiliiaVerbenko/GameCO-Marketing-Analysis/blob/main/image/GameCO%204.jpg" width="400">
 
 - The leading gaming genres are Action and Shooter.
 - Across all markets, except for Japan, the Action genre holds the top position in popularity, ranking second in Japan.
+
+  
 
 ## Recommendations
 
