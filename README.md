@@ -50,14 +50,13 @@ I created this line graph using an Excel pivot table to analyze whether sales gr
 
 Through the analysis of an Excel pivot table, I found that Electronic Arts dominated the market in terms of global sales from 2011 to 2016.
 
-<img src="https://github.com/LiliiaVerbenko/GameCO-Marketing-Analysis/blob/main/image/GameCO%202.jpg" width="400">
-
+<img src="https://github.com/LiliiaVerbenko/GameCO-Marketing-Analysis/blob/main/image/GameCo%202.jpg" width="400">
 
 ### Are certain types of games more popular than others?
 
 I created this pie chart in Excel using worldwide sales data to illustrate the globally preferred gaming genre. Additionally, I made another visualization to highlight sales of all genres in each market according to their sales.
 
-<img src="https://github.com/LiliiaVerbenko/GameCO-Marketing-Analysis/blob/main/image/GameCO%203.jpg" width="400">
+<img src="https://github.com/LiliiaVerbenko/GameCO-Marketing-Analysis/blob/main/image/GameCo%203.jpg" width="400">
 
 <img src="https://github.com/LiliiaVerbenko/GameCO-Marketing-Analysis/blob/main/image/GameCO%204.jpg" width="400">
 
