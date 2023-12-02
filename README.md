@@ -38,7 +38,7 @@ To perform a descriptive analysis of a video game data set to assist GameCo in p
 
 ### How have sales figures varied between geographic regions over time?
 
-I created this line graph using an Excel pivot table to analyze whether sales growth varied across different geographic regions over time.
+The line graph was created using an Excel Pivot table to analyze how sales varied across different geographic regions and over time.
 
 <img src="https://github.com/LiliiaVerbenko/GameCO-Marketing-Analysis/blob/main/image/GameCO%201.jpg" width="400">
 
@@ -48,7 +48,7 @@ I created this line graph using an Excel pivot table to analyze whether sales gr
 
 ### Which publishers are expected to be the main competitors in the market?
 
-Through the analysis of an Excel pivot table, I found that Electronic Arts dominated the market in terms of global sales from 2011 to 2016.
+Electronic Arts dominated the market in terms of global sales from 2011 to 2016.
 
 <img src="https://github.com/LiliiaVerbenko/GameCO-Marketing-Analysis/blob/main/image/GameCo%202.jpg" width="400">
 
