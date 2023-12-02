@@ -54,7 +54,7 @@ Through the analysis of an Excel pivot table, I found that Electronic Arts domin
 
 ### Are certain types of games more popular than others?
 
-I created this pie chart in Excel using worldwide sales data to illustrate the globally preferred gaming genre. Additionally, I made another visualization to highlight sales of all genres in each market according to their sales.
+The pie chart was created using worldwide sales data to illustrate the globally preferred gaming genre and to highlight the sales of all genres in each region.
 
 - The leading gaming genres are Action and Shooter.
 <img src="https://github.com/LiliiaVerbenko/GameCO-Marketing-Analysis/blob/main/image/GameCo%203.jpg" width="400">
