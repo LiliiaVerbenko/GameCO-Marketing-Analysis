@@ -56,11 +56,11 @@ Electronic Arts dominated the market in terms of global sales from 2011 to 2016.
 
 The pie chart was created using worldwide sales data to illustrate the globally preferred gaming genre and to highlight the sales of all genres in each region.
 
-- The leading gaming genres are Action and Shooter.
+The leading gaming genres are Action and Shooter.
 <img src="https://github.com/LiliiaVerbenko/GameCO-Marketing-Analysis/blob/main/image/GameCo%203.jpg" width="400">
 
 
-- Across all markets, except for Japan, the Action genre holds the top position in popularity, ranking second in Japan.
+Across all markets, except for Japan, the Action genre holds the top position in popularity.
 <img src="https://github.com/LiliiaVerbenko/GameCO-Marketing-Analysis/blob/main/image/GameCO%204.jpg" width="400">
 
   
