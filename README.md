@@ -36,7 +36,7 @@ To perform a descriptive analysis of a video game data set to assist GameCo in p
 
 ## Key Insights
 
-###**How have sales figures varied between geographic regions over time?**
+**_How have sales figures varied between geographic regions over time?_**
 
 The line graph was created using an Excel Pivot table to analyze how sales varied across different geographic regions and over time.
 
@@ -46,14 +46,14 @@ The line graph was created using an Excel Pivot table to analyze how sales varie
 - Although North American sales were the highest, there has been a gradual decline in sales for all regions since 2008.
   
 
-### **Which publishers are expected to be the main competitors in the market?**
+**_Which publishers are expected to be the main competitors in the market?_**
 
 Electronic Arts dominated the market in terms of global sales from 2011 to 2016.
 
 <img src="https://github.com/LiliiaVerbenko/GameCO-Marketing-Analysis/blob/main/image/GameCo%202.jpg" width="400">
 
 
-### **Are certain types of games more popular than others?**
+**_Are certain types of games more popular than others?_**
 
 The pie chart was created using worldwide sales data to illustrate the globally preferred gaming genre and to highlight the sales of all genres in each region.
 
