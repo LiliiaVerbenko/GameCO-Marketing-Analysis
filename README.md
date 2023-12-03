@@ -36,7 +36,7 @@ To perform a descriptive analysis of a video game data set to assist GameCo in p
 
 ## Key Insights
 
-### **How have sales figures varied between geographic regions over time?**
+###**How have sales figures varied between geographic regions over time?**
 
 The line graph was created using an Excel Pivot table to analyze how sales varied across different geographic regions and over time.
 
